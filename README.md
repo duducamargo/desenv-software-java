@@ -45,5 +45,5 @@ Este repositório contém minhas soluções para a avaliação de Java da Univer
 
 ## Autor
 
-Nome: Eduardo Farias Camargo
+Nome: Eduardo Farias Camargo,
 Email: edu.farias.camargo@gmail.com
