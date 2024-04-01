@@ -1,18 +1,5 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Exercício 05
+Em uma tranquila cidade conhecida por sua paixão por automobilismo, um grupo de entusiastas decarros clássicos decide organizar um evento para exibir seus veículos. Para tornar o evento mais interessante, eles planejam criar um sistema que permita aos participantes registrarem seus carros,incluindo informações detalhadas e a capacidade de controlar algumas funcionalidades dos carros, comoa velocidade.
+Motivado por esse evento de carros clássicos, o desafio é desenvolver uma classe `Carro` em Java,aplicando os princípios da orientação a objetos. Este sistema deve permitir aos usuários criarem objetos`Carro` com informações como marca, modelo, ano e velocidade atual. Além disso, os carros devem termétodos que permitam acelerar e frear, ajustando a velocidade atual de acordo com a ação realizada.
+Dica:
+“Desenvolva a classe ‘Carro’ com atributos privados para ‘marca’, ‘modelo’, ‘ano’, ‘placa’ e ‘velocidadeAtual’.Implemente um construtor para inicializar os atributos do carro quando um novo objeto é criado. Adicione métodospúblicos para `acelerar()`, que aumenta a velocidade do carro, e `frear()`, que diminui a velocidade. Não esqueça deincluir um método para exibir as informações do carro, refletindo a importância da encapsulação e da interaçãoentre os objetos em um programa orientado a objetos.”

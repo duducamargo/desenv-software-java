@@ -1,18 +1,5 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Exercício 02
+Imagine uma pequena biblioteca pessoal, uma coleção que você começou a construir com seuslivros favoritos. No entanto, com o tempo e o acúmulo de mais e mais livros, você percebe anecessidade de organizar e acessar rapidamente as informações de cada um deles.
+Para ajudar nessa organização, você decide criar um sistema simples em Java que permitiráregistrar cada livro com detalhes cruciais: o título, o autor e o ano de publicação. Além dearmazenar esses dados, você quer uma maneira fácil de exibir as informações de qualquer livroda sua coleção, para quando quiser relembrar um título ou sugerir uma leitura a um amigo.
+Dica:
+“Desenvolva a classe Livro com os atributos título, autor e ano. Implemente um construtorpara inicializar esses atributos quando um novo livro for instanciado no seu sistema.Adicione um método exibirInfo() para mostrar todos os dados do livro na tela.”

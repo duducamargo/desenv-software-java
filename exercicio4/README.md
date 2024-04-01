@@ -1,18 +1,5 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Exercício 04
+Em um mundo cada vez mais digital, um grupo de amigos apaixonados por videogames percebeuma oportunidade de combinar seus hobbies com a prática de programação. Eles decidem criarum sistema para gerenciar perfis de jogadores em seus jogos favoritos, algo que permitiria acompanhar o progresso, as conquistas e as estatísticas de cada jogador de forma personalizada e automatizada.
+Inspirado por esse projeto entre amigos, o desafio é desenvolver uma parte desse sistema degerenciamento de jogadores utilizando Java, com um foco especial na orientação a objetos. Osistema deve permitir a criação de perfis de jogadores, armazenando informações como nome,pontuação e nível. Além disso, deve ser possível atualizar a pontuação e o nível dos jogadores nosistema.
+Dica:
+“Crie a classe `Jogador`, que deverá conter atributos privados para o `nome`, `pontuacao` e `nivel`do jogador. Inclua um construtor para inicializar esses atributos e métodos públicos para permitira manipulação segura dessas informações — por exemplo, métodos para aumentar a pontuação,subir de nível e exibir as informações do jogador.”

@@ -1,18 +1,5 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Exercício 03
+Em uma pequena cidade, um desenvolvedor entusiasta decide criar um sistema para ajudar agerenciar as contas bancárias dos cidadãos locais. Com o crescimento da comunidade, ficou evidente a necessidade de um método mais eficiente e seguro para o manejo de transaçõ esbancárias, que até então eram feitas manualmente e levavam muito tempo.
+Inspirado por essa necessidade comunitária, o objetivo é desenvolver um sistema bancáriosimples em Java, focando na orientação a objetos. Este sistema permitirá a criação de contasbancárias, cada uma capaz de realizar operações básicas como depósitos, saques e consultas desaldo. O desafio é estruturar o programa de forma que cada conta seja um objeto, refletindo osprincípios da programação orientada a objetos.
+Dica:
+“Projete uma classe `ContaBancaria` que encapsule os atributos de uma conta, como `numeroConta`,`nomeTitular` e `saldo`. Utilize modificadores de acesso para garantir o encapsulamento e a segurança dosdados. Implemente métodos para `depositar(valor)`, `sacar(valor)` e um método que retorne o `saldo` atual daconta. Lembre-se de que cada operação deve ajustar o saldo da conta de acordo com a transação realizada.”

@@ -1,0 +1,5 @@
+# Ignorar todas as pastas .vscode
+**/.vscode/
+
+# Ignorar todas as pastas lib
+**/lib/

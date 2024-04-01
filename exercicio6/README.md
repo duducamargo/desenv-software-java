@@ -1,18 +1,4 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Exercício 06
+Inspirado pela organização de um grande evento de networking, onde os participantes trocamcontatos e informações profissionais, um desenvolvedor decide criar um sistema para gerenciaruma agenda de contatos. Este sistema ajudará os usuários a manter suas conexões organizadas,permitindo-lhes adicionar, remover e buscar contatos facilmente.
+Dica:
+“Crie as classes Agenda e Contato em Java. A classe Contato deve armazenar informações como nomee telefone, enquanto a classe Agenda deve gerenciar uma lista de contatos, com métodos paraadicionar novos contatos e buscar contatos por nome.”

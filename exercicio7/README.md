@@ -1,18 +1,5 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Exercício 07
+Um empreendedor que gerencia um mercado local percebe a necessidade de um sistema para gerenciaro estoque de produtos em sua loja. Ele deseja desenvolver um programa em Java que seja capaz deregistrar informações sobre os produtos disponíveis, controlar as quantidades em estoque e fornecerfuncionalidades básicas de gerenciamento de estoque.
+O sistema proposto deve permitir que cadaproduto seja identificado por seu nome, um código único, um preço e a quantidade em estoque.Os funcionários do mercado devem ser capazes de adicionar novos produtos ao estoque, atualizar asinformações de um produto existente e remover produtos do estoque quando necessário. Para facilitaro gerenciamento do mercado, o sistema também deve ser capaz de gerar relatórios sobre o estoqueatual, incluindo informações como os produtos disponíveis, a quantidade em estoque e o valor total emestoque.
+Dica:
+“Como já deve ter entendido com os últimos exercícios, aqui você pode criar uma classe Produto que contémas informações sobre cada item do mercado, entre nome, código do produto, quantidade em estoque e preço.Neste caso, não é necessário criar uma classe Mercado para gerenciar o estoque individual de cadas mercadoe pode-se utilizar a própria Main que faz o programa funcionar para isso.”
