@@ -4,5 +4,5 @@
 # Ignorar todas as pastas lib
 **/lib/
 
-# Ignorar todas as pastas bin
+# Ignorar todas as pastas 
 **/bin/
