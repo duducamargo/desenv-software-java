@@ -1,4 +1,4 @@
-# Avaliação de Java - Universidade XYZ
+# Avaliação de Java - Universidade Positivo
 
 Este repositório contém minhas soluções para a avaliação de Java da Universidade Positivo. A avaliação consistia em 8 questões que abordavam diversos conceitos da linguagem Java.
 
