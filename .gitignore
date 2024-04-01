@@ -3,3 +3,6 @@
 
 # Ignorar todas as pastas lib
 **/lib/
+
+# Ignorar todas as pastas bin
+**/bin/
