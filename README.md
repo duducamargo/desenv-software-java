@@ -29,7 +29,7 @@ Este repositório contém minhas soluções para a avaliação de Java da Univer
 
 ## Como Executar
 
-1. Clone este repositório: git clone https://github.com/seu_usuario/avaliacao-java-universidade.git
+1. Clone este repositório: git clone [https://github.com/duducamargo/desenv-software-java.git]
 
 2. Navegue até a pasta da questão desejada: cd exercicio01/
 
