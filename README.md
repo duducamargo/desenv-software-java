@@ -1,49 +1,41 @@
-# Avaliação de Java - Universidade Positivo
+# Java Assessment - Universidade Positivo
 
-Este repositório contém minhas soluções para a avaliação de Java da Universidade Positivo. A avaliação consistia em 8 questões que abordavam diversos conceitos da linguagem Java.
+This repository contains my solutions for the Java assessment at Universidade Positivo. The assessment consisted of 8 questions covering various concepts of the Java language.
 
-## Questões
+## Questions
 
-1. **Questão 1**: Calculadora.
+1. **Question 1**: Calculator.
+2. **Question 2**: Personal Library.
+3. **Question 3**: Bank Account Management.
+4. **Question 4**: Player Management.
+5. **Question 5**: Car Register.
+6. **Question 6**: Contact List.
+7. **Question 7**: Market Manager.
+8. **Question 8**: Pizzeria System.
 
-2. **Questão 2**: Biblioteca Pessoal.
+## Repository Structure
 
-3. **Questão 3**: Gerenciamento de contas Bancárias.
-
-4. **Questão 4**: Gerenciamento de jogadores.
-
-5. **Questão 5**: Registrador de carros.
-
-6. **Questão 6**: Lista de contatos.
-
-7. **Questão 7**: Gerenciador de mercado.
-
-8. **Questão 8**: Sistema de uma Pizzaria.
-
-## Estrutura do Repositório
-
-- `exercicio01/`: Pasta contendo os arquivos relacionados à Questão 1.
-- `exercicio022/`: Pasta contendo os arquivos relacionados à Questão 2.
+- `exercise01/`: Folder containing the files related to Question 1.
+- `exercise02/`: Folder containing the files related to Question 2.
 - ...
-- `exercicio8/`: Pasta contendo os arquivos relacionados à Questão 8.
+- `exercise8/`: Folder containing the files related to Question 8.
 
-## Como Executar
+## How to Run
 
-1. Clone este repositório: git clone [https://github.com/duducamargo/desenv-software-java.git]
+1. Clone this repository: `git clone https://github.com/duducamargo/software-development-java.git`
 
-2. Navegue até a pasta da questão desejada: cd exercicio01/
+2. Navigate to the desired question folder: `cd exercise01/`
 
-3. Compile o código Java: javac NomeDoArquivo.java
+3. Compile the Java code: `javac FileName.java`
 
-4. Execute o programa Java: java NomeDoArquivo
+4. Run the Java program: `java FileName`
 
-## Notas
+## Notes
 
-- Certifique-se de ter o JDK (Java Development Kit) instalado em seu sistema para compilar e executar os programas Java.
+- Make sure you have the JDK (Java Development Kit) installed on your system to compile and run the Java programs.
+- The provided files are examples and may not match exactly with the files from the university's actual assessment.
 
-- Os arquivos fornecidos são apenas exemplos e podem não corresponder exatamente aos arquivos da avaliação real da universidade.
+## Author
 
-## Autor
-
-Nome: Eduardo Farias Camargo,
+Name: Eduardo Farias Camargo  
 Email: edu.farias.camargo@gmail.com
